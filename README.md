@@ -12,7 +12,7 @@
   <img align="center" alt="Maria-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Maria-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Maria-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img aligh= "right" alt= Mari src=https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHdlNzNsb3NwcnZnMmt5NGp1NGJvZXI4bmd1YzNqd2Izc3c1eWdzNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vVegyymxA90fkY8jkE/giphy.gif>
+  <img align= "right" height="120" width="120" alt="Alice-gif" src="https://user-images.githubusercontent.com/105389239/175746813-5e790a2a-6293-45a6-8463-e690cddb9eb7.gif">
 </div>
 
 ##
