@@ -1,4 +1,4 @@
-## Oiii eu sou a Maria Carneiro, estudante de programação entusiasmada pela tecnologia! 🚀
+## Oiii eu sou a Maria Carneiro, estudante de Análise e Desemvolvimento de Sistemas entusiasmada pela tecnologia! 🚀
 
 <div>
   <a href="https://github.com/mariaclarath">
